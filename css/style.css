@@ -1,5 +1,5 @@
 .row {
-  display: flex; !important
+  display: flex !important;
 }
 .center {
   align-items: center;
@@ -15,7 +15,7 @@
   word-wrap: break-word;
   font-family: "Bitter", serif;
 }
-.mb-3{
+.mb-3 {
   color: #01386a;
   font-size: 22px;
   font-family: Open Sans;
@@ -23,9 +23,9 @@
   line-height: 24px;
   word-wrap: break-word;
 }
-.smallImage{
-    height: 3% !important;
-    width: 2% !important;
+.smallImage {
+  height: 5px !important;
+  width: 3px !important;
 }
 span {
   color: red;
